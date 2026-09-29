@@ -1,4 +1,4 @@
-# orca-pro
+# orcaflex
 
 Backend do MVP de orçamentos para prestadores de serviço. Monólito modular em
 Spring Boot (Java 17), com autenticação JWT, persistência em JPA e
